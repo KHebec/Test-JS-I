@@ -146,7 +146,6 @@ function operadoresLogicos(num1, num2, num3) {
     return "Número 1 es mayor y positivo";
   }
   else {return false;}
-  //----------------------------------------------------------------------------------------->REVISAR<----------------------------
 }
 
 function esVerdadero(valor) {
